@@ -4,6 +4,14 @@
   
     
     <entry>
+      <title><![CDATA[换了系统]]></title>
+      <url>https://ichenghao.github.io/2016/07/26/%E6%8D%A2%E4%BA%86%E7%B3%BB%E7%BB%9F/</url>
+      <content type="html"><![CDATA[<p>在虚拟机里装了个Xubuntu，原来的Ubuntu正好坏掉了，好在把ichenghao这个文件夹备份出来了，于是重新在Xubuntu里安装Hexo，把ichenghao文件夹拷贝过来，重新生成SSH，然后<code>hexo deploy</code>，O(∩_∩)O哈哈~</p>
+<p>登录GitHub看了一下，之前的commit记录都没有了，重新开始。。。</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[初识Git]]></title>
       <url>https://ichenghao.github.io/2016/07/14/%E5%88%9D%E8%AF%86Git/</url>
       <content type="html"><![CDATA[<p>刚开始学习Git，在执行了几遍<br><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ mkdir <span class="built_in">test</span></div><div class="line">$ <span class="built_in">cd</span> <span class="built_in">test</span></div><div class="line">$ git init</div><div class="line">$ <span class="built_in">echo</span> <span class="string">"Hello, World!"</span> &gt; helloworld.txt</div><div class="line">$ git add helloworld.txt</div><div class="line">$ git commit -m <span class="string">'initial'</span></div></pre></td></tr></table></figure></p>
